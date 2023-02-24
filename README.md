@@ -6,7 +6,7 @@ I am **Divesh Heeramun** working as **Software Engineer** at **Ceridian Mauritiu
 
 ## 🧑‍💻 Quick Intro
 
-- 🔭 I’m currently working on as Software Engineer @ Ceridian Mauritius
+- 🔭 I’m currently working as Software Engineer @ Ceridian Mauritius
 - 🌱 I’m currently learning C# and .NET Core
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development in general
