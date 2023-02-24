@@ -64,7 +64,7 @@ I am **Divesh Heeramun** working as **Software Engineer** at **Ceridian Mauritiu
 ![Azure Boards](https://img.shields.io/badge/-Azure%20Boards-05122A?style=flat&logo=azure-devops&logoColor=0078D7)
 ![Redmine](https://img.shields.io/badge/-Redmine-05122A?style=flat&logo=redmine&logoColor=darkred)
 
-## Analytics
+## 📈 Analytics
 
 ![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepinzombie&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
