@@ -1,16 +1,16 @@
 ## HelloThere(); 👋
 
-I am **Divesh Heeramun** working as **Software Engineer** at **Ceridian Mauritius**. I am an experience **Fullstack Engineer** with a demonstrated history of working in the information technology and services industry. **Skilled in React, Angular, NodeJS, MongoDB, MEAN & MERN Stack, RESTful APIs, Drupal, UI/UX**. A strong engineering professional with a Bachelor of Science with Honours in Applied Computing from the University of Mauritius.
+I am **Divesh Heeramun** working as **Senior Software Developer** at **[Dayforce](https://www.dayforce.com/)** formerly known as Ceridian Mauritius. I am an experience **Senior Fullstack Engineer** with a demonstrated history of working in the information technology and services industry. **Skilled in React, Angular, NodeJS, MongoDB, MEAN & MERN Stack, RESTful APIs, Drupal, UI/UX**. A strong engineering professional with a Bachelor of Science with Honours in Applied Computing from the University of Mauritius.
 
 ---
 
 ## 🧑‍💻 Quick Intro
 
-- 🔭 I’m currently working as Software Engineer @ Ceridian Mauritius
-- 🌱 I’m currently learning C# and .NET Core
+- 🔭 I’m currently working as Senior Software Developer @ Dayforce
+- 🌱 I’m currently spearheading and leading React projects!
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development in general
-- ⚡ Fun fact: The zombie never sleeps though
+- ⚡ Fun fact: The zombie never sleeps
 
 ## ⚡ Technologies
 
@@ -44,6 +44,9 @@ I am **Divesh Heeramun** working as **Software Engineer** at **Ceridian Mauritiu
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Drupal](https://img.shields.io/badge/-Drupal-05122A?style=flat&logo=drupal&logoColor=0678be)
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-.NET%20Framework-05122A?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet)
 \
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
